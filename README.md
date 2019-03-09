@@ -1,2 +1,2 @@
 # ProrgrammingForInternet
-Exercise 2 from Programming For Internet Course
+Exercise 1 from Programming For Internet Course
